@@ -4,7 +4,7 @@ main()
 {
 int day;
 printf("Enter the day:");
-Scanf("%d",day);
+Scanf("%d",&day);
 switch(day)
 {
 case Monday:
