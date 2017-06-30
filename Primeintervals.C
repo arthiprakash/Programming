@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<conio>
-int prime(int)
 main()
 {
 int a,b,i;
