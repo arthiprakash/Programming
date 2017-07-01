@@ -7,11 +7,11 @@ printf("Enter the number:\n");
 scanf("%d",&a);
 if(a%2==0)
 {
-printf("The number is Even");
+printf("The number %d is Even");
 }
 else
 {
-printf("The number is odd");
+printf("The number %d is odd");
 }
 getch();
 }
