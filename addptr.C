@@ -7,6 +7,6 @@ scanf("%d",&b);
 printf("Enter the value for c:");
 scanf("%d",&c);
 a=*b+*c;
-printf("The result is:",a);
+printf("The result is %d:",a);
 getch();
 }
