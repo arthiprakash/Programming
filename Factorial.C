@@ -9,5 +9,5 @@ for(i=1;i<n;i++)
 {
 factorial=factorial*i;
 }
-printf("the output is :",factorial);
+printf("the output is %d:",factorial);
 }
