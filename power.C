@@ -8,5 +8,5 @@ scanf("%d",&a);
 printf("Enter the exponent");
 scanf("%d",&p);
 b=a^p;
-printf("The output is:/n",b);
+printf("The output is %d:/n",b);
 }
