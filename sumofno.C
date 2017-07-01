@@ -9,6 +9,6 @@ for(i=1,i<n;i++)
 {
 a=a+i;
 }
-printf("The required output is:",a);
+printf("The required output for %d is:",a);
 getch();
 }
